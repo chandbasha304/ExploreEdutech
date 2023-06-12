@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/abstract-soft-yellow-watercolor-texture-design-background_1055-17615.jpg?w=900&t=st=1685799238~exp=1685799838~hmac=eb5bb7f33005420c010e4c0f04cb54130ad1feb4a22912b08d7f4ef97b59735b");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+}
+legend
+{
+    font-size: 25px;
+}
+marquee
+{
+   font-size: 75px; 
+   color: #e8b41b;
+}
+table{
+    font-size: 25px;
+    
+}
+li,ol{
+    font-size: 55px;
+}
+p{
+    font-size: 35px;
+}
